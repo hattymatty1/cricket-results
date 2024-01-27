@@ -1,0 +1,13 @@
+{
+    "name": "Cricket Results",
+    "version": "1.0.0",
+    "description": "Results of ongoing cricket matches!",
+    "manifest_version": 3,
+    "author": "Sourav Kispotta",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "IPL Extension"
+    }
+
+
+}
